@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuisine on Open Source Kitchen</title>
+    <link>https://open-source-kitchen.github.io/cuisine/</link>
+    <description>Recent content in Cuisine on Open Source Kitchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://open-source-kitchen.github.io/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>American</title>
+      <link>https://open-source-kitchen.github.io/cuisine/american/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-source-kitchen.github.io/cuisine/american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://open-source-kitchen.github.io/cuisine/italian/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-source-kitchen.github.io/cuisine/italian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
